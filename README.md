@@ -21,9 +21,6 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
-#clone 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay63/Cloudd)
 
 # Usage
 
@@ -118,6 +115,12 @@ Replace Image with Docker Image ID
 * If you are using Cloudflare for website use https:// and Set Flexible HTTPS in Cloudflare.
 * Copy your details and use above.
 * `GOOGLE_REDIRECT_URL` is same as `Authorized redirect URIs`
+
+DEPLOY TO HEROKU 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay63/Cloudd)
+
+
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
