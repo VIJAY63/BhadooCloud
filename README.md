@@ -21,6 +21,9 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
+#clone 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay63/Cloudd)
 
 # Usage
 
