@@ -13,12 +13,12 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 ![Docker Size](https://images.microbadger.com/badges/image/parveenbhadoo/bhadoocloud.svg)
 ![Docker Version](https://images.microbadger.com/badges/version/parveenbhadoo/bhadoocloud.svg)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/parveenbhadooofficial/bhadoocloud.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/Vijay63/cloudd.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Vijay63/cloudd.svg)
 
 </div>
 
-Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
+Repo at [Cloudd](https://github.com/Vijay63/Cloudd)
 
 ![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
