@@ -24,6 +24,8 @@ Repo at [Cloudd](https://github.com/Vijay63/Cloudd)
 
 # Usage
 
+Info: Use AWS EC2 (1 Year Free), G Cloud (300$ for 1 Year Free), MS Azure (30 Days Free) for Bhadoo Cloud Installations.
+
 Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
 * Select an Ubuntu 18.xx Server Image
