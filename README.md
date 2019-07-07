@@ -135,3 +135,5 @@ Contributions are Welcome.
 [![BrowserStack](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/files/browserstack.png)](https://www.browserstack.com/)
 
 Supported by [BrowserStack](https://www.browserstack.com/), which allows us to test projects online with any browser as a service. :-) 
+
+Thanks [PraveenBhadooofficial](https://github.com/ParveenBhadooOfficial) 
