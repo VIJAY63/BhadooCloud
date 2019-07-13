@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node server/server.js",
     "prestart": "npm run build",
-    "build": "tsc"
+    "build": "tsc",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Mrigank Krishan",
   "license": "ISC",
@@ -33,9 +35,11 @@
     "torrent-stream": "^1.0.3",
     "typescript": "^2.0.6",
     "unblocker": "^1.1.4",
-    "url": "^0.11.0"
+    "url": "^0.11.0",
+    "snyk": "^1.192.4"
   },
   "engines": {
     "node": "6.11.1"
-  }
+  },
+  "snyk": true
 }
